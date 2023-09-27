@@ -18,7 +18,7 @@ public class ConstantExam {
 //		J = 5;
 		
 		double circleArea;
-		final double PI = 3.14159
+		final double PI = 3.14159;
 		circleArea = 3 * 3 * PI;
 		
 //		final int OIL_PRICE = 1450;
