@@ -1,4 +1,4 @@
-package first;
+package javaStudy;
 
 public class HelloWorld {
 
